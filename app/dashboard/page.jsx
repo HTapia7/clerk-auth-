@@ -7,6 +7,6 @@ const Dashboard = () => {
         <p className='mb-5'>Welcome to the Dashboard</p>
     </>
   )
-}
+};
 
 export default Dashboard
